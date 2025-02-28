@@ -1,0 +1,4 @@
+const pow = ( x, n ) => {
+  return x ** n;
+}
+console.log(Math.pow(5, 5));
